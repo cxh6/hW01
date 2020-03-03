@@ -6,7 +6,7 @@
   circular 衔接滑动
   autoplay 自动滑动
  -->
-<swiper indicator-dots="false" circular autoplay>
+<!-- <swiper indicator-dots="false" circular autoplay>
   <swiper-item>
     <image src="/static/uploads/slide_1.jpg"></image>
   </swiper-item>
@@ -16,7 +16,7 @@
   <swiper-item>
     <image src="/static/uploads/slide_3.jpg"></image>
   </swiper-item>
-</swiper>
+</swiper> -->
 
 <!-- 导航跳转 -->
-<navigator url="/pages/index/index" open-type="switchTab">跳转到主页</navigator>
+<!-- <navigator url="/pages/index/index" open-type="switchTab">跳转到主页</navigator> -->
